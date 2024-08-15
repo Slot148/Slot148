@@ -7,13 +7,3 @@
 ### HTML
 ### CSS
 ### JavaScript
-
-´´´ <html>
-  <head>
-    
- </head>
-
- <body>
-   
- </body>
-</html> ´´´
