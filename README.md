@@ -8,6 +8,5 @@
 [![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)](#javascript)
 
 **SOBRE MIM:** <br>
-  -TENHO 19 ANOS ANOS <br>
-  -MORO EM SÃO JOSÉ DOS CAMPOS
+  -TENHO 19 ANOS ANOS
   
