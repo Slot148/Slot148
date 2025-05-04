@@ -1,11 +1,12 @@
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=140&section=header"/>
 </div>
 
 <h1 align="center">🌌 Olá, eu sou o Nícolas</h1>
 <p align="center">Bem-vindo ao meu cantinho no GitHub — aconchegante como uma madrugada tranquila.</p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=slot148&label=Visitas&style=for-the-badge&color=1a1b27&logoColor=70a5fd" alt="slot148" />
+</p>
 
 ## ✨ Sobre mim
 
@@ -15,27 +16,28 @@
 - 🎧 Meus dias são embalados por Foo Fighters, Linkin Park, Monoral, e trilhas sonoras da madrugada.
 - ☁️ Aprecio o silêncio, os tons cinzas e a beleza escondida no sutil.
 
-
 ## 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![html5](https://img.shields.io/badge/HTML5-%231a1b27?style=for-the-badge&logo=HTML5&logoColor=%2370a5fd)
+![css3](https://img.shields.io/badge/CSS3-%231a1b27?style=for-the-badge&logo=CSS3&logoColor=%2370a5fd)
+![javascript](https://img.shields.io/badge/JavasCript-%231a1b27?style=for-the-badge&logo=Javascript&logoColor=%2370a5fd)
+![typescript](https://img.shields.io/badge/TypesCript-%231a1b27?style=for-the-badge&logo=Typescript&logoColor=%2370a5fd)
+![python](https://img.shields.io/badge/Python-%231a1b27?style=for-the-badge&logo=Python&logoColor=%2370a5fd)
+![flask](https://img.shields.io/badge/Flask-%231a1b27?style=for-the-badge&logo=Flask&logoColor=%2370a5fd)
+![c](https://img.shields.io/badge/C-%231a1b27?style=for-the-badge&logo=C&logoColor=%2370a5fd)
+![git](https://img.shields.io/badge/Git-%231a1b27?style=for-the-badge&logo=Git&logoColor=%2370a5fd)
+![vscode](https://img.shields.io/badge/VSCode-%231a1b27?style=for-the-badge&logoColor=%2370a5fd)
+![sqlite](https://img.shields.io/badge/sqlite-1a1b27?style=for-the-badge&logo=sqlite&logoColor=70a5fd)
+![linux](https://img.shields.io/badge/Linux-%231a1b27?style=for-the-badge&logo=Linux&logoColor=%2370a5fd)
+![npm](https://img.shields.io/badge/npm-1a1b27?style=for-the-badge&logo=npm&logoColor=70a5fd)
 
 </div>
 
 
 
-## 📊 Estatísticas do GitHub
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slot148&label=Profile%20views&color=0e75b6&style=flat" alt="slot148" /> </p>
+## 📊 Estatísticas do GitHub
 
 <div align="center">
     <a>
@@ -50,20 +52,108 @@
     </a>
 </div>
 
+
+
 ## 🌌 Atividade Recente
 
 <div align="center">
-    <a href="https://github.com/Slot148">
-        <img height=250 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=slot148&theme=tokyo-night&hide_border=true&radius=20&custom_title=Contribuições&days=20&grid=false">
+    <img height=150 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=slot148&theme=tokyo-night&hide_border=true&radius=20&custom_title=Contribuições&days=20&grid=false">
+    <img height=150 align="center" src="https://github-contributor-stats.vercel.app/api?username=slot148&theme=tokyonight&hide_border=true&order_by=contributions&hide_contributor_rank=true">
+</div>
+
+## 🌠 Projetos da Madrugada
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;"> 
+    <a href="">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slot148&repo=HomePage.github.io&theme=tokyonight&hide_border=true&show_owner=true">
+    </a>
+    <a href="">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slot148&repo=estudo_criptografia&theme=tokyonight&hide_border=true&show_owner=true">
+    </a>
+    <a href="">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Y2K-Systems&repo=Projeto-Integrador-2025-1&theme=tokyonight&hide_border=true&show_owner=true">
     </a>
 </div>
 
-## 🎧 Ouvindo agora
-<div>
+## 🎵 Trilha Sonora da Madrugada  
+<div align="left">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sn9rxn8j41xxvq6jr2rlnodsy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
 </div>
 
+## 🌠 Portfólio Interativo  
+
+- [Clique aqui para visitar meu portfólio](https://portifolio-snowy-phi.vercel.app/) 💻✨
+
+## ✍️ Textos Recentes  
+- [O Impacto das Inteligências Artificiais no Mercado de Trabalho](<!--ainda vou adicionar-->)
+
+## 🔮 Aprendendo Agora  
+
+<div align="center">
+
+![react](https://img.shields.io/badge/React-%231a1b27?style=for-the-badge&logo=react&logoColor=%2370a5fd)
+![godot](https://img.shields.io/badge/Godot-%231a1b27?style=for-the-badge&logo=godotengine&logoColor=%2370a5fd)
+![blender](https://img.shields.io/badge/Blender-%231a1b27?style=for-the-badge&logo=blender&logoColor=%2370a5fd)
+![cplusplus](https://img.shields.io/badge/C++-%231a1b27?style=for-the-badge&logo=cplusplus&logoColor=%2370a5fd)
+
+</div>
+
+## 🏹 Objetivos  
+- [ ] Conseguir uma vaga de estágio  
+- [ ] Aprender arquitetura limpa
+- [ ] Desenvolver um app próprio
+- [ ] Participar de uma gamejam
+
+## 💻 Meu Ambiente  
+
+### Setup1
+- **OS**: Linux Mint + Cinnamon  
+- **Editor**: Neovim + AstroNvim  
+- **Terminal**: Kitty + Starship  
+- **Fonte**: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)  
+### Setup2
+- **OS**: Windows 11  
+- **Editor**: VSCode  
+- **Terminal**: Windows Terminal  
+- **Fonte**: [Consolas]()  
+
+
+## 📜 Frase do dia
+
+<div align="center">
+
+```
+ “In the middle of every difficulty lies opportunity.”  
+ — *Albert Einstein*
+```
+
+</div>
+
+## ☄️ Onde Me Encontrar 
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd)](nicolasferreira.work2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd)](https://www.linkedin.com/in/nicolas-anderson-34b082302/)
+[![Discord](https://img.shields.io/badge/-Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=70a5fd)]()
+[![Bluesky](https://img.shields.io/badge/-bluesky-1a1b27?style=for-the-badge&logo=bluesky&logoColor=70a5fd)](https://bsky.app/profile/slot148.bsky.social)
+[![Reddit](https://img.shields.io/badge/-reddit-1a1b27?style=for-the-badge&logo=reddit&logoColor=70a5fd)](www.reddit.com/u/Slot_147/s/PJbYPU6tF3)
+
+</div>
+
+
+## 🌟 Agradecimento
+
+<div align="center">
+  
+Obrigado por visitar meu perfil. Que tal deixar uma ⭐ em algum repositório que chamou sua atenção?
+
+![Estrela](https://img.shields.io/badge/-⭐_Pegue_uma_estrela_⭐-1a1b27?style=for-the-badge&logo=star&logoColor=70a5fd)
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=120&section=footer"/>
-</div>
+</div> 
+
+
