@@ -123,8 +123,8 @@
 <div align="center">
 
 ```
- “In the middle of every difficulty lies opportunity.”  
- — *Albert Einstein*
+       “In the middle of every difficulty lies opportunity.”  
+                     — *Albert Einstein*
 ```
 
 </div>
