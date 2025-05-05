@@ -47,7 +47,7 @@
 
 <div align=center>
     <a href="https://github.com/Slot148">
-        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slot148&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slot148&layout=compact&langs_count=20&card_width=320&theme=tokyonight&hide_border=true" />
         <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=slot148&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github"/>
     </a>
 </div>
