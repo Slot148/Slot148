@@ -123,8 +123,8 @@
 <div align="center">
 
 ```
-       “In the middle of every difficulty lies opportunity.”  
-                     — *Albert Einstein*
+“In the middle of every difficulty lies opportunity.”  
+— *Albert Einstein*
 ```
 
 </div>
@@ -135,9 +135,8 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd)](mailto:nicolasferreira.work2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd)](https://www.linkedin.com/in/nicolas-anderson-34b082302/)
-[![Discord](https://img.shields.io/badge/-Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=70a5fd)]()
 [![Bluesky](https://img.shields.io/badge/-bluesky-1a1b27?style=for-the-badge&logo=bluesky&logoColor=70a5fd)](https://bsky.app/profile/slot148.bsky.social)
-[![Reddit](https://img.shields.io/badge/-reddit-1a1b27?style=for-the-badge&logo=reddit&logoColor=70a5fd)](www.reddit.com/u/Slot_147/s/PJbYPU6tF3)
+[![Reddit](https://img.shields.io/badge/-reddit-1a1b27?style=for-the-badge&logo=reddit&logoColor=70a5fd)](https://www.reddit.com/u/Slot_147/s/EOYPjR18bH)
 
 </div>
   
