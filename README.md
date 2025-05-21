@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=140&section=header"/>
 </div>
 
-<h1 align="center">🌌 Olá, eu sou o Nícolas</h1>
+<h1 align="center">🌌 Olá, meu nome é Nícolas</h1>
 <p align="center">Bem-vindo ao meu cantinho no GitHub — aconchegante como uma madrugada tranquila.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=slot148&label=Visitas&style=for-the-badge&color=1a1b27&logoColor=70a5fd" alt="slot148" />
@@ -12,8 +12,8 @@
 
 - 🌙 Desenvolvedor apaixonado por resolver problemas e criar experiências que confortam.
 - 💻 Amante de sistemas Linux, criptografia clássica, linguagens de programação e desafios instigantes.
-- ✍️ Escrevo letras e códigos — ambos vindos do coração.
-- 🎧 Meus dias são embalados por Foo Fighters, Linkin Park, Monoral, e trilhas sonoras da madrugada.
+- ✍️ Escrevo letras e códigos
+- 🎧 Meus dias são carregados por Foo Fighters, Linkin Park, Three Days Grace, Monoral, e trilhas sonoras da madrugada.
 - ☁️ Aprecio o silêncio, os tons cinzas e a beleza escondida no sutil.
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -114,7 +114,7 @@
 ### Setup2
 - **OS**: Windows 11  
 - **Editor**: VSCode  
-- **Terminal**: Windows Terminal  
+- **Terminal**: Windows Terminal + PowerShell 7
 - **Fonte**: [Consolas]()  
 
 
