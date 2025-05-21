@@ -85,7 +85,7 @@
 - [Clique aqui para visitar meu portfólio](https://portifolio-snowy-phi.vercel.app/) 💻✨
 
 ## ✍️ Textos Recentes  
-- [O Impacto das Inteligências Artificiais no Mercado de Trabalho](<!--ainda vou adicionar-->)
+- [O Impacto das Inteligências Artificiais no Mercado de Trabalho](https://www.even3.com.br/anais/2-science-business-connection-407088/819151-o-impacto-das-inteligencias-artificias-no-mercado-de-trabalho)
 
 ## 🔮 Aprendendo Agora  
 
