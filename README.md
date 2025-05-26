@@ -68,7 +68,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=slot148&repo=HomePage.github.io&theme=tokyonight&hide_border=true&show_owner=true">
     </a>
     <a href="">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slot148&repo=estudo_criptografia&theme=tokyonight&hide_border=true&show_owner=true">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slot148&repo=new_portifolio&theme=tokyonight&hide_border=true&show_owner=true">
     </a>
     <a href="">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Y2K-Systems&repo=Projeto-Integrador-2025-1&theme=tokyonight&hide_border=true&show_owner=true">
