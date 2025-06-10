@@ -20,17 +20,21 @@
 <div align="center">
 
 ![html5](https://img.shields.io/badge/HTML5-%231a1b27?style=for-the-badge&logo=HTML5&logoColor=%2370a5fd)
-![css3](https://img.shields.io/badge/CSS3-%231a1b27?style=for-the-badge&logo=CSS3&logoColor=%2370a5fd)
+![css3](https://img.shields.io/badge/CSS3-%231a1b27?style=for-the-badge&logo=css&logoColor=%2370a5fd)
 ![javascript](https://img.shields.io/badge/JavasCript-%231a1b27?style=for-the-badge&logo=Javascript&logoColor=%2370a5fd)
 ![typescript](https://img.shields.io/badge/TypesCript-%231a1b27?style=for-the-badge&logo=Typescript&logoColor=%2370a5fd)
+![nodejs](https://img.shields.io/badge/nodejs-%231a1b27?style=for-the-badge&logo=nodedotjs&logoColor=%2370a5fd)
+![express](https://img.shields.io/badge/express-%231a1b27?style=for-the-badge&logo=express&logoColor=%2370a5fd)
 ![python](https://img.shields.io/badge/Python-%231a1b27?style=for-the-badge&logo=Python&logoColor=%2370a5fd)
 ![flask](https://img.shields.io/badge/Flask-%231a1b27?style=for-the-badge&logo=Flask&logoColor=%2370a5fd)
 ![c](https://img.shields.io/badge/C-%231a1b27?style=for-the-badge&logo=C&logoColor=%2370a5fd)
 ![git](https://img.shields.io/badge/Git-%231a1b27?style=for-the-badge&logo=Git&logoColor=%2370a5fd)
 ![vscode](https://img.shields.io/badge/VSCode-%231a1b27?style=for-the-badge&logoColor=%2370a5fd)
 ![sqlite](https://img.shields.io/badge/sqlite-1a1b27?style=for-the-badge&logo=sqlite&logoColor=70a5fd)
+![mysql](https://img.shields.io/badge/mysql-1a1b27?style=for-the-badge&logo=mysql&logoColor=70a5fd)
 ![linux](https://img.shields.io/badge/Linux-%231a1b27?style=for-the-badge&logo=Linux&logoColor=%2370a5fd)
 ![npm](https://img.shields.io/badge/npm-1a1b27?style=for-the-badge&logo=npm&logoColor=70a5fd)
+![yarn](https://img.shields.io/badge/yarn-1a1b27?style=for-the-badge&logo=yarn&logoColor=70a5fd)
 
 </div>
 
