@@ -51,7 +51,7 @@
 
 <div align=center>
     <a href="https://github.com/Slot148">
-        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slot148&layout=compact&langs_count=20&card_width=320&theme=tokyonight&hide_border=true" />
+        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slot148&layout=compact&langs_count=30&card_width=320&theme=tokyonight&hide_border=true" />
         <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=slot148&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github"/>
     </a>
 </div>
@@ -76,6 +76,9 @@
     </a>
     <a href="">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Y2K-Systems&repo=Projeto-Integrador-2025-1&theme=tokyonight&hide_border=true&show_owner=true">
+    </a>
+    <a href="">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slot148&repo=C-generic-list&theme=tokyonight&hide_border=true&show_owner=true">
     </a>
 </div>
 
