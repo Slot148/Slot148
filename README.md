@@ -65,7 +65,7 @@
     <img height=150 align="center" src="https://github-contributor-stats.vercel.app/api?username=slot148&theme=tokyonight&hide_border=true&order_by=contributions&hide_contributor_rank=true">
 </div>
 
-## 🌠 Projetos da Madrugada
+## 🌠 Projetos
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;"> 
     <a href="">
@@ -87,7 +87,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sn9rxn8j41xxvq6jr2rlnodsy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
 </div>
 
-## 🌠 Portfólio Interativo  
+## 🌠 Portfólio  
 
 - [Clique aqui para visitar meu portfólio](https://portifolio-snowy-phi.vercel.app/) 💻✨
 
