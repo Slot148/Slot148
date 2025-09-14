@@ -94,23 +94,6 @@
 ## ✍️ Textos Recentes  
 - [O Impacto das Inteligências Artificiais no Mercado de Trabalho](https://www.even3.com.br/anais/2-science-business-connection-407088/819151-o-impacto-das-inteligencias-artificias-no-mercado-de-trabalho)
 
-## 🔮 Aprendendo Agora  
-
-<div align="center">
-
-![react](https://img.shields.io/badge/React-%231a1b27?style=for-the-badge&logo=react&logoColor=%2370a5fd)
-![godot](https://img.shields.io/badge/Godot-%231a1b27?style=for-the-badge&logo=godotengine&logoColor=%2370a5fd)
-![blender](https://img.shields.io/badge/Blender-%231a1b27?style=for-the-badge&logo=blender&logoColor=%2370a5fd)
-![cplusplus](https://img.shields.io/badge/C++-%231a1b27?style=for-the-badge&logo=cplusplus&logoColor=%2370a5fd)
-
-</div>
-
-## 🏹 Objetivos  
-- [ ] Conseguir uma vaga de estágio  
-- [ ] Aprender arquitetura limpa
-- [ ] Desenvolver um app próprio
-- [ ] Participar de uma gamejam
-
 ## 💻 Meu Ambiente  
 
 ### Setup1
